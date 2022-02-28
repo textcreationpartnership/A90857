@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popish forgery detected [r]emarks on the paper delivered by Margaret Martel to the under-sheriff at the time and [p]lace of her execution, at Suffolk-street end, July 16, 1697 [for] the barbarous murther of Elizabeth Pullen, wife of Paul [P]ullen, Esq.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90857</idno>
+            <idno type="STC">Wing P2950A</idno>
+            <idno type="STC">ESTC R42536</idno>
+            <idno type="EEBO-CITATION">36282261</idno>
+            <idno type="OCLC">ocm 36282261</idno>
+            <idno type="VID">150167</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2234:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popish forgery detected [r]emarks on the paper delivered by Margaret Martel to the under-sheriff at the time and [p]lace of her execution, at Suffolk-street end, July 16, 1697 [for] the barbarous murther of Elizabeth Pullen, wife of Paul [P]ullen, Esq.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Martel, Margaret, d. 1697.</term>
+               <term>Anti-Catholicism --  England.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:150167:1" rendition="simple:additions"/>
+            <head>The Popiſh Forgery Detected.</head>
+            <head type="sub">
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>EMARKS on the PAPER delivered by <hi>Margaret Martel</hi> to the Under-Sheriff at the Time and Place of her Execution, at <hi>Suffolk-ſtreet</hi> End, <hi>July</hi> 16. 1697. <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Barbarous Murther of <hi>Elizabeth Pullen,</hi> Wife of <hi>Paul Pullen,</hi> Eſq</head>
+            <p>
+               <hi>Publiſhed by Special Order.</hi>
+            </p>
+            <p>HAD the Papiſts been well adviſed, they would have publiſhed nothing concer<g ref="char:EOLhyphen"/>ning the Execution of <hi>Margaret Martel;</hi> for tho' ſhe was of their Communion, no body would have charg'd their Religion with the hideouſneſs of her Crime, there being no Chriſtian Society that may pretend to be free from Wicked and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rate Villains. But the <hi>Genius</hi> of Popery, is to improve every thing to their own <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ntage; and it being a common Maxim amongſt them, That the moſt notorious Lyes <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſometimes very uſeful, tho' they ſhould impoſe upon the World but for an Hour, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have ventured to lay the Crime, committed by <hi>Margaret Martel,</hi> upon Proteſtants; <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at the ſame time, to recommend the Doctrine of their Church to the People.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his does manifeſtly appear from the Prayer ſhe delivered to the Under-Sheriff; where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he ſaith. That God had forſaken her, becauſe ſhe had forſaken her Religion to embrace <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ther; <hi>[In the Profeſſion of which, I have always been a bad Liver, as having no Obligation <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o me to declare my ſelf to any Perſon who could hinder me from following my irregular Incli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ons.]</hi> This is certainly a Maſter-piece of Malice; and the Contrivers thereof muſt <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ds be ſtock'd with an unparallel'd Impudence, to face it out to the World, as it <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appear by the following Conſiderations.</p>
+            <p>It is not true, that the ſaid <hi>Margaret Martel</hi> has abjured Popery to turn a Proteſtant; <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we defie thoſe who framed this Prayer for her, to name the Miniſter who received her <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ration, or the Church wherein it was performed, either <hi>French, Dutch,</hi> or <hi>Engliſh.</hi> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at this Aſſertion, which is laid down here as a Matter of Fact, is a faceleſs, ground<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Forgery, (after our moſt diligent Enquiry, and according to our beſt Knowledge,) at<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed with a horrid Impiety, conſidering the nature of the Paper wherein it is con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed, and the Circumſtance of the Dying Perſon; for they oblige her to call God Al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ty to witneſs a Lye.</p>
+            <p>But ſuppoſing ſhe had turned Proteſtant, which is manifeſtly falſe, Does it follow <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thence that ſhe was inſpired with any bloody Principles in the Communion of the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſtant Churches? This is more than they can make out. Whereas we can eaſily prove, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God Almighty being repreſented every <hi>Sunday,</hi> in the reading of the Ten Command<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ts in vulgar Tongue, as thundring his Judgments againſt Murthers and Aſſaſſinations, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſhalt do no Murther;</hi> and our Divines expreſſing themſelves every where againſt thoſe <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es, they are (God be thank'd) ſomewhat ſcarce amongſt Proteſtants, and very com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in Popiſh Countries. We may obſerve further, that the Proteſtant Churches of <hi>France</hi> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo ſevere in this Particular, that tho' a Murtherer had obtain'd their King's Pardon, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would not admit him to the Participation of the Lord's Supper, till after ſeveral Years <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ance.</p>
+            <p>I. We need not go out of the Church of <hi>Rome</hi> to look for the Maſters who, in greater <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hood, have taught her Murther and Aſſaſſination. The Famous <hi>Caramuel</hi> gives leave, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Prieſts, to kill thoſe who Slander them; and <hi>Molina</hi> owns, that he dares not con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſuch who kill thoſe who endeavour to Rob them, even when the thing attempted to <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>bed ſhould be worth only a Crown. Theſe two Doctors are ſufficient to make an <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n <hi>probable:</hi> And Father <hi>Bauni</hi> has poſitively decided, that a Prieſt would be guilty <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Sin, did he refuſe to Abſolve a Man whoſe Actions ſhould be grounded on a pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Opinion.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. It is therefore in the Romiſh Church, and not among Proteſtants, that <hi>Margaret Mar<g ref="char:EOLhyphen"/>tel</hi> become hold with the greateſt Crimes. We have ſeveral Preſumptions of it; but ſhe <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d her ſelf upon her Body an undeniable Proof of this Truth; for when ſhe was put in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Grave, they diſcover'd ſhe had been branded upon her Shoulder with a <hi>Flower-de-<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi> This Puniſhment was certainly inflicted upon her while ſhe was in <hi>France,</hi> and a Pa<g ref="char:EOLhyphen"/>piſt;
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:150167:2" rendition="simple:additions"/>
+               <pb facs="tcp:150167:3"/>therefore ſhe was uſed to great Crimes before ſhe came into <hi>England,</hi> and th<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>teſtant, as they will ſuppoſe. She has own'd that her Father was baniſh'd out of <hi>R<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Murther; no wonder then that ſhe was able to frame the horrid deſign for which ſh<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſuffer'd, having inherited that bloody temper from her Father, and been confirmed there<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Doctors of the Church wherein ſhe was educated.</p>
+            <p n="5">V. There is all the likelihood imaginable to believe that Popiſh Prieſts do not inſiſt e<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on the hideouſneſs of Murther; for <hi>Margaret Martel</hi> do's not ſpeak a word, in her Po<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Murther ſhe committed on Mrs. <hi>Pullen;</hi> contenting her ſelf to ſay in general <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſhe was agreat Sinner.</hi> So great and barbarous a Crime did certainly deſerve a particular <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> publick Confeſſion; but ſince ſhe has not done it, Who is to be blamed? Charity oblig<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to believe, that ſhe did not think of it in the Circumſtances ſhe was in; but her Di<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ought to have put her in mind of it, conſidering that ſhe had not own'd her Crime to the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ges. A Sinner who is truly penitent, and ſenſible of the grievouſneſs of his Crime, will <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hide it under ſome general terms; but on the contrary, proclaim it to all the World. This <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be made out by a great many illuſtrious Examples.</p>
+            <p n="6">VI. The other deſign the Authors of this Prayer propoſed to themſelves, is, to ſhew the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vantages and uſefulneſs of the Auricular Confeſſion which is practiſed in the Church of R<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but altho' one would not deny that this Auricular Confeſſion may be of ſome uſe <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Popiſh Church being guilty of Idolatry, and of ſeveral Errors inconſiſtent with <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, it do's not follow that one ought to turn to, or remain in her Communion, bec<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of this Confeſſion; which, after all, is not attended with the advantages and uſe <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>hinted at in this Prayer.</p>
+            <p n="7">VII. <hi>Margaret Martel,</hi> or rather the Director of her Conſcience, tell us, That had ſhe <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under an obligation to confeſs herſelf, ſhe would not have committed this Crime, (the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhe makes uſe of do import as much;) but ſhe did Confeſs her ſelf at <hi>Paris</hi> before ſhe <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>branded with a <hi>Flower-de-luce.</hi> Her Father did the like, before he committed the Mu<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for which he was baniſhed. The <hi>Ravaillacs, Gerards,</hi> and <hi>Garnets,</hi> made uſe alſo of the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ricular Confeſſion; How then did they commit thoſe abominable Crimes, if the Confe<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is ſo powerful to reſtrain Men from Sin? <hi>Rome</hi> and <hi>Italy,</hi> where the Auricular Confe<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is ſo frequently uſed, ought, according to this Doctrine, to be altogether free from Murth<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and other great Crimes; whereas there are more Aſſaſſinations committed in thoſe Par<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in all the Proteſtant Countries of the World put together. Where is then the great <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tage of the Auricular Confeſſion?</p>
+            <p n="8">VIII. The Proteſtants have always approved a ſort of Confeſſion, which may be called, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Direction;</hi> and think that Sinners would find a great benefit to apply themſelves to their <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>niſters for their Advice and Inſtruction; but they believe, and may prove, that the Ro<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Church is in the wrong.
+<list>
+                  <item>1. For having added the Confeſſion to the number of the S<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ments inſtituted by Chriſt.</item>
+                  <item>2. For obliging all Chriſtians, upon pain of Damnation, to <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>feſs all then mortal Sins.</item>
+                  <item>3. For giving, or rather pretending to give, to her Prieſts a Po<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> to abſolve Sinners.</item>
+                  <item>4. To ſubſtitute in the room of the Duties required by true Repentance the abſtinence of certain Meat, the reciting of ſome <hi>Pater</hi>'s and <hi>Ave Maria</hi>'s, the viſiting <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſome Reliques, and the like, which are of a dangerous conſequence; for men being natural perverſe, are apt to follow their wicked Inclinations, and give up themſelves to all ſins, if th<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> can but perſwade themſelves, that the Abſolution and Pardon of all their Crimes are ſo ea<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> purchaſed.</item>
+               </list> This is certainly the reaſon of the depravation of the manners of the Inhabit<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of <hi>Rome,</hi> the Centre of the Romiſh Church, and the moſt debauched City in the World.</p>
+            <p n="9">IX. Thoſe who framed the Prayer of <hi>Margaret Martel,</hi> wherein the Proteſtant Religion <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in general ſo unjuſtly aſperſed, have doubtleſs contrived alſo a ſcurrilous Ballad ſung in th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Streets to make odious to the common People the French Proteſtants who live amongſt us but the Artifice is too plain to take effect; for even Children of fifteen years of age may re<g ref="char:EOLhyphen"/>member, that there were few French Proteſtants in <hi>England,</hi> before the Cruelties of <hi>L<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> XIV. drove them from their native Country; and that all did not come over with wood<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Shooes. Our People may indeed ask the French Papiſts, why they live here, ſince they h<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the liberty to go home?</p>
+            <p>This pitiful Scoundrel ſeems very uneaſie, becauſe the proteſtants of <hi>England</hi> have open<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their Arms to their diſtreſſed Brethren; but 'tis not doubted, but the King and Parliament, who have taken the Refugees under their Protection, will take care alſo to puniſh the Impe<g ref="char:EOLhyphen"/>dence of a Fellow who dares preſume to reflect on their Compaſſion and Generoſity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed; and ſold by <hi>E. Whitlock</hi> near <hi>Stationers-Hall,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
